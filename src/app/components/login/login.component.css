@@ -1,0 +1,21 @@
+.card{
+    margin-top: 100px;
+    border: none;
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    background: #3C3B3F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #605C3C, #3C3B3F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+label{
+    color: white;
+}
+
+h1{
+    color: white;
+}
